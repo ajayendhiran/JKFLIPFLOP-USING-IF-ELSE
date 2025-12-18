@@ -66,7 +66,8 @@ Developed by:Jeyandhiran RegisterNumber:25017257
 <img width="1167" height="634" alt="image" src="https://github.com/user-attachments/assets/bb21516d-1c6e-4ca4-82a7-3d3423badf9a" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1268" height="251" alt="image" src="https://github.com/user-attachments/assets/453efbf2-d2da-481f-ade8-b4f0785fff6c" />
+<img width="1064" height="207" alt="Screenshot 2025-12-18 193448" src="https://github.com/user-attachments/assets/e8e7aad4-a4b8-4f41-b66c-ebb274788968" />
+
 
 **RESULTS**
 Thus the JK flipflop using verilog and validating their functionality using their functional tables is implemented and verified.
